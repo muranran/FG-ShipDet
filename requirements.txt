@@ -1,0 +1,6 @@
+numpy==1.26.4
+scipy==1.15.3
+scikit-learn==1.7.2
+Pillow==12.2.0
+# Install torch/torchvision for your CUDA runtime as described in README.md.
+# For score_baselines.py, also install Cython and libmr==0.1.9.
